@@ -1,7 +1,7 @@
 
 ---
 
-## solo dev   
+# solo dev   
 
 *beauty matters.*
 
