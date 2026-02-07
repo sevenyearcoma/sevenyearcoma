@@ -1,7 +1,5 @@
 
----
-
-### motto   
+---   
 
 *elegance matters.*
 
