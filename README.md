@@ -1,5 +1,5 @@
+building tools and keeping things quiet
 
-### ⊹ software developer
-specializing in frontend / vibe-coding whatever catches my interest
+react / next.js / open source
 
-starting fresh to focus on better builds
+​always open for a pull request or a kind word
