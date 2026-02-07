@@ -1,11 +1,15 @@
 ### 
-ⅰ. building tools in silence.
 
-ⅱ. finding beauty in the open source.
-
-ⅲ. kindness as a default state.
+ⅰ. building in silence, creating with intent.
+ⅱ. finding beauty in clean code and open hearts.
+ⅲ. software is the craft, kindness is the purpose.
 
 —
 
-*«to build is to serve.»*
+*«the goal is to help, the tool is the code.»*
+
+true wealth is found in friends, open source, and the quiet joy of a build that works. 
+
+✧
+
 
