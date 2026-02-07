@@ -1,7 +1,7 @@
 
 ---
 
-### solo dev   
+### motto   
 
 *elegance matters.*
 
