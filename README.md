@@ -3,7 +3,7 @@
 
 ### solo dev   
 
-*beauty matters.*
+*elegance matters.*
 
 ---
   
