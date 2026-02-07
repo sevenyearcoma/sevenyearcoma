@@ -1,7 +1,7 @@
 
 ---   
 
-*elegance matters.*
+*silence is essential*
 
 ---
   
