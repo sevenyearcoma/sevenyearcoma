@@ -1,7 +1,9 @@
 ###
 ---
 
-go with the flow  
+// solo dev   
+
+*beauty matters.*
 
 ---
   
