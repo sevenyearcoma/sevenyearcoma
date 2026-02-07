@@ -1,5 +1,9 @@
-building tools and keeping things quiet
+### 
+ⅰ. building tools in silence.
+ⅱ. finding beauty in the open source.
+ⅲ. kindness as a default state.
 
-react / next.js / open source
+—
 
-​always open for a pull request or a kind word
+*«to build is to serve.»*
+
