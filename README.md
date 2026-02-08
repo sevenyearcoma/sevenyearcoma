@@ -1,5 +1,3 @@
-<div align="center">
-
 # andrei kuzmin
 
 <br>
@@ -12,9 +10,10 @@
 
 <br>
 <br>
+<div align="center">
 
-### software engineer · thought in every detail
-
+### software engineer
+**thought in every detail**
 
 <br>
 <br>
