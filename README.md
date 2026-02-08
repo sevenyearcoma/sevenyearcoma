@@ -15,7 +15,7 @@
 <br>
 <br>
 
-# andrei kuzmin
+## andrei kuzmin
 ### software engineer
 *thought in every detail*
 
