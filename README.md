@@ -8,17 +8,28 @@
 <br>
 *in authenticity, there is power*
 
+<br>
+
 ---
-
-### thought in every detail
-
-`solo dev`
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sevenyearcoma&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_rank=true" />
+### thought in every detail
+`solo dev`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenyearcoma&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&hide_title=true" />
+<br>
+<br>
+
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sevenyearcoma&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_rank=true" alt="stats" height="150" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenyearcoma&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&hide_title=true" alt="languages" height="150" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
