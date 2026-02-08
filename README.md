@@ -18,7 +18,9 @@
 <br>
 
 ### Andrei Kuzmin
-### software engineer
+software engineer   
+<br>
+<br>
 *thought in every detail*
 
 <br>
