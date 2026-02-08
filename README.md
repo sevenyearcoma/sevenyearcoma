@@ -4,6 +4,8 @@
 
 <br>
 
+---
+
 *kindness is the only worthy legacy*
 <br>
 *resilience is the tool*
