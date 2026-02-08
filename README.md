@@ -1,3 +1,5 @@
+<div align="center">
+
 # andrei kuzmin
 
 <br>
@@ -11,10 +13,8 @@
 <br>
 <br>
 
-<div align="center">
-
-### thought in every detail
-` s o f t w a r e · d e v `
+### software engineer
+*thought in every detail*
 
 <br>
 <br>
