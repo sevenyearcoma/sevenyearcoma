@@ -23,6 +23,5 @@
 <br>
 
 ---
-*let's build something meaningful*
 
 </div>
