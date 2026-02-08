@@ -12,6 +12,7 @@
 <br>
 
 <div align="center">
+
 ### thought in every detail
 ` s o f t w a r e · d e v `
 
