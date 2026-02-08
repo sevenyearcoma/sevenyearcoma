@@ -14,7 +14,7 @@
 <br>
 
 ### software engineer
-**thought in every detail**
+*thought in every detail*
 
 <br>
 <br>
