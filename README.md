@@ -19,16 +19,10 @@
 <br>
 <br>
 
-<table background="none">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sevenyearcoma&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&hide_rank=true" alt="stats" height="150" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenyearcoma&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&hide_title=true" alt="languages" height="150" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sevenyearcoma&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&hide_rank=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenyearcoma&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&hide_title=true" height="150" alt="languages" />
+</p>
 
 <br>
 <br>
