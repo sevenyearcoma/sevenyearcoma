@@ -12,10 +12,12 @@
 <br>
 *in authenticity, there is power*
 
+---
+
 <br>
 <br>
 
-## andrei kuzmin
+### Andrei Kuzmin
 ### software engineer
 *thought in every detail*
 
