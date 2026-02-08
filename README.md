@@ -10,9 +10,9 @@
 
 ---
 
-### thought · in · every · detail
+### thought in every detail
 
-`frontend` // `ml research` // `vibe coding`
+`solo dev`
 
 <br>
 
