@@ -13,8 +13,8 @@
 <br>
 <br>
 
-### software engineer
-*thought in every detail*
+### software engineer · thought in every detail
+
 
 <br>
 <br>
