@@ -1,7 +1,7 @@
 
 ---   
 
-*silence is essential.*
+*добро как ориентир*
 
 
   
