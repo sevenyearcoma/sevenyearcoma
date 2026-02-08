@@ -1,4 +1,4 @@
-### [Andrei Kuzmin / putting meaning in every detail]
+### [putting thought in every detail]
 
 > **kindness is the only worthy legacy.** 
 > **resilience is the tool.** 
